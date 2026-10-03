@@ -1,2 +1,2 @@
 # EDCO
-Data Science Course
+📈 Data Science Course
